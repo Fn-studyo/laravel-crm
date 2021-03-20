@@ -1,6 +1,6 @@
 <template>
     <div class="mcontainer">
-        <body-component></body-component>
+        <Body/>
     </div>
 </template>
 
